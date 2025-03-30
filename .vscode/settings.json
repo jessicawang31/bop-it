@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/d9c4307c-0af3-420b-ba3f-495cd3ba4e26/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/bop-it",
+    "appService.deploySubpath": "."
+}
