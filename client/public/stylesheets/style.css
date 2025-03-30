@@ -1,0 +1,25 @@
+body {
+    color: white;
+    background-color: black;
+    font-size: 32px;
+}
+
+.score {
+    font-weight: bold;
+}
+
+.login {
+    background-color: orange;
+    border-radius: 20px;
+    font-size: 24px;
+    height: 50px;
+    width: 100px;
+}
+
+.playbutton {
+    background-color: yellow;
+    border-radius: 20px;
+    height: 100px;
+    width: 200px;
+    font-size: 32px;
+}

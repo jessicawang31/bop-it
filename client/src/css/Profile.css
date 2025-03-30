@@ -1,0 +1,49 @@
+.grey-box {
+    background-color: #ACACAC;
+    width: 1000px;
+    height: 650px;
+    border-radius: 15px; 
+    border: 10px solid #5A5A5A;
+    margin: 8vh auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: flex-start;
+    padding: 20px;
+    box-sizing: border-box; 
+ }
+ 
+ 
+ .profile-text {
+    color: black;
+    font-family: 'inter-semibold';
+    font-size: 32px;
+    margin-bottom: 40px; 
+ }
+
+ .metrics {
+    color: black;
+    font-family: 'inter-medium';
+    font-size: 20px; 
+    width: 100%;
+ }
+ 
+ .metrics p {
+    background-color: #D9D9D9; 
+    padding: 15px; 
+    margin: 20px 0; 
+    border-radius: 8px; 
+    width: 80%; 
+    margin-left: auto;
+    margin-right: auto;
+    box-sizing: border-box;
+ }
+
+ .login-prompt {
+   color: black;
+   font-family: 'inter-medium';
+   font-size: 22px;
+   font-weight: bold;
+   text-align: center;
+   margin-top: 40px;
+}

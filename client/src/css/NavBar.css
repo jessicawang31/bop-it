@@ -1,0 +1,33 @@
+.navbar {
+    display: flex;
+    padding-top: 15px;
+}
+
+.navbar a {
+    text-decoration: none;
+    justify-content: left;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'inter-medium';
+    margin-left: 3rem;
+}
+
+ul {
+    display: flex;
+    gap: 5rem;
+    padding-top: 2rem;
+}
+
+.login-button, .logout-button {
+    background-color: #C7781E;
+    color: white;
+    font-family: 'inter-bold';
+    padding: 5px 25px;
+    border-radius: 8px;
+    border: none;
+    margin-left: 55vh;
+    margin-top: -1vh;
+    cursor: pointer; 
+  }
+

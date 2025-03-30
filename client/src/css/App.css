@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    margin: 0; 
+ }
+ 
+
+@font-face {
+    font-family: inter-medium;
+    src: url(../../public/fonts/Inter_24pt-Medium.ttf);
+}
+
+@font-face {
+    font-family: inter-semibold;
+    src: url(../../public/fonts/Inter_24pt-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: inter-bold;
+    src: url(../../public/fonts/Inter_24pt-Bold.ttf);
+}
