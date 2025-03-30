@@ -12,9 +12,9 @@ dotenv.config();
 
 const authConfig = {
   auth: {
-    clientId: "6ba2adad-5129-46eb-9989-7ec2d40ef416",
-    authority: "https://login.microsoftonline.com/f6b6dd5b-f02f-441a-99a0-162ac5060bd2",
-    clientSecret: "-fu8Q~XFAwhptLbE6y6WxOd06MHx~_9xWlLljapf",
+    clientId: process.env.clientId,
+    authority: process.env.authority,
+    clientSecret: process.env.clientSecret,
     redirectUri: "https://bop-it-final-project-back.onrender.com/redirect"
   },
   system: {
