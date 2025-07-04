@@ -1,6 +1,6 @@
 # Bop It! Project Proposal
-### By: Tai Nguyen, Carl Searle, Jessica Wang, Owen Wong
-Check it out! https://bop-it-final-project.onrender.com/
+### By: Tai Nguyen, Jessica Wang, Owen Wong
+Check it out! [https://bop-it-final-project.onrender.com/](https://taiiwininfo441.me/)
 
 # Project Description
 ## 0. Context/Setting the stage
